@@ -18,5 +18,5 @@ Pre spustenie projektu potrebujete:
 
 1. **Naklonujte si repozitár** (alebo stiahnite kód):
    ```bash
-   git clone [https://github.com/jpoldruhak/Kurz-AI.git](https://github.com/jpoldruhak/Kurz-AI.git)
+   git clone https://github.com/jpoldruhak/Kurz-AI.git
    cd Kurz-AI
